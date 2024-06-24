@@ -20,8 +20,8 @@ Khodam Web Application adalah sebuah aplikasi web yang memungkinkan pengguna unt
 
 1. Clone repository ini:
     ```bash
-    git clone https://github.com/SazumiVicky/cek-khodam.git
-    cd cek-khodam
+    git clone https://github.com/YUDAMODS/cek-khodam-host.git
+    cd cek-khodam-host
     ```
 
 2. Install dependencies:
